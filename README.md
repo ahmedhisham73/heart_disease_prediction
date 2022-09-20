@@ -102,18 +102,17 @@ prediction algorithm:
     
     
  for i=1,.............n:
-
-     current distance := d(x[i], x[q])
+ current distance := d(x[i], x[q])
      #where d is the euclidean distance between x[i] and x[q]
      
      
      
-     ![euclie](https://user-images.githubusercontent.com/37244966/191277508-0aec8a87-279c-4433-8bc5-911ae6a01f06.png)
+   ![euclie](https://user-images.githubusercontent.com/37244966/191277508-0aec8a87-279c-4433-8bc5-911ae6a01f06.png)
      
      
      
      
-     if current_distance <close_distance (d(x[i],x[q])<infinity ? yes 
+   if current_distance <close_distance (d(x[i],x[q])<infinity ? yes 
       closest_distance := current distance
        closest_point := x[i]
        
