@@ -90,42 +90,13 @@ The thickened heart muscle can make it harder for the heart to pump blood.
 
 
 
-KNN algorithm notes :-
-Training algorithm:
 
-for i = 1, ..., n in the n-dimensional training dataset D (|D| = n):
+ ![knn1](https://user-images.githubusercontent.com/37244966/191288984-b59a2f0c-76c8-4976-a03e-7efce0091ee0.png)
 
-   -store (x(i),f(x(i))
-    
-prediction algorithm:
-
-
-   closest_point=none
-   closest_distance= infinity 
-    
-    
-    
- for i=1,.............n:
- current distance := d(x[i], x[q])
  
-   #where d is the euclidean distance between x[i] and x[q]
-     
-     
-     
-   ![euclie](https://user-images.githubusercontent.com/37244966/191277508-0aec8a87-279c-4433-8bc5-911ae6a01f06.png)
-     
-     
-     
-     
-   if current_distance <close_distance (d(x[i],x[q])<infinity ? yes 
-      closest_distance := current distance
-       closest_point := x[i]
-       
-       
- the prediction h(x[q])-> target value of the closest_point
- 
- 
-      
+  ![knn2](https://user-images.githubusercontent.com/37244966/191289008-28944e7f-f440-4e8f-8334-0c5b85e69763.png)
+
+![knn3](https://user-images.githubusercontent.com/37244966/191289061-c64a147f-6cda-4d51-80ca-2c27724f8922.png)
 
 
 
