@@ -81,6 +81,9 @@ The thickened heart muscle can make it harder for the heart to pump blood.
 12-number of major vessels (0-3) colored by flourosopy
 
 13-thal - 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+
+
 ![uci](https://user-images.githubusercontent.com/37244966/191237072-95cad98b-afb0-414b-9e66-5fe9ce23812a.png)
 
 
